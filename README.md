@@ -1,6 +1,6 @@
 # Dijkstra's-Algorithm
-Dijkstra’s Algorithm
-A program to perform Dijkstra’s algorithm on Matlab.
+
+# A program to perform Dijkstra’s algorithm on Matlab.
 Considering 400 points in the 2D plane, where the coordinate of each point is (𝑥, 𝑦) with 𝑥 = 1, 2, 3, … , 20 and 𝑦 = 1, 2, 3, … , 20. 
 In other words, the coordinates of these 400 points are respectively listed as
 (1,1), (1,2), (1,3), … , (1,20),
