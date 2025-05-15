@@ -12,3 +12,5 @@ First, you label these 398 points, e.g., the index of (1,2) is 1, that of (1,3) 
 Then, you use Matlab to randomly generate 120 different indices from 1 to 398, with the command“randperm”. 
 Last, you remove the points corresponding to these 120 indices. 
 Among these 280 remaining points, the distance between two points (𝑥1, 𝑦1) and (𝑥2, 𝑦2) is
+The distance between two points (x₁, y₁) and (x₂, y₂) is:
+sqrt((x₁ - x₂)^2 + (y₁ - y₂)^2)
