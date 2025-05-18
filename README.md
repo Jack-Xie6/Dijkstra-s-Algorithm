@@ -9,10 +9,10 @@ Dijkstra's algorithm (/ˈdaɪkstrəz/ DYKE-strəz) is an algorithm for finding t
 ### 1.1 
 Considering 400 points in the 2D plane, where the coordinate of each point is (𝑥, 𝑦) with 𝑥 = 1, 2, 3, … , 20 and 𝑦 = 1, 2, 3, … , 20.  
 In other words, the coordinates of these 400 points are respectively listed as  
-                       (1,1), (1,2), (1,3), … , (1,20),  
-                       (2,1), (2,2), (2,3), … , (2,20),  
+                     `  (1,1), (1,2), (1,3), … , (1,20),  
+                      ` (2,1), (2,2), (2,3), … , (2,20),  
                                    ......  
-                       (20,1), (20,2), (20,3), … (20,20).  
+                      ` (20,1), (20,2), (20,3), … (20,20).  
                        
 ### 1.2
 Keep two points (1,1) and (20,20), and randomly remove some points from the other 398 points. (In this code,we randomly removed 250 points).  
